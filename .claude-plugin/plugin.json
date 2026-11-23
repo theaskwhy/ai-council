@@ -1,0 +1,10 @@
+{
+  "name": "ai-council",
+  "description": "Use when a plan or creative decision would benefit from several AI models working independently \u2014 running one brief through multiple assistants (e.g. ChatGPT, Grok, Gemini, an on-device model) and merging the results.",
+  "version": "1.0.0",
+  "author": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "license": "MIT"
+}

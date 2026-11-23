@@ -1,0 +1,14 @@
+{
+  "name": "ai-council",
+  "owner": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "plugins": [
+    {
+      "name": "ai-council",
+      "source": "./",
+      "description": "Use when a plan or creative decision would benefit from several AI models working independently \u2014 running one brief through multiple assistants (e.g. ChatGPT, Grok, Gemini, an on-device model) and merging the results."
+    }
+  ]
+}
